@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <a href='https://github.com/Wei-BioMath/Liver2024'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Wei-BioMath/6c0ce6572f458e47b47f8329feec803f/raw/clone.json&logo=github'></a>
 </p>
 
