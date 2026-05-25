@@ -7,6 +7,6 @@ Scripts use to produce the results in Zhao W et al. Metabolism - Clinical and Ex
 
 Citation: 
 
-Zhao W et al. (Single-cell and spatial omics in liver identify cell-cell communication regulators in aging and insulin resistance
+(Zhao W et al. Single-cell and spatial omics in liver identify cell-cell communication regulators in aging and insulin resistance
 Metabolism - Clinical and Experimental, 2026; 181)[https://doi.org/10.1016/j.metabol.2026.156630]
 
